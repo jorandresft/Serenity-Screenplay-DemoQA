@@ -7,9 +7,6 @@ import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
-import net.serenitybdd.screenplay.actions.SelectFromOptions;
-import net.serenitybdd.screenplay.actions.selectactions.SelectByVisibleTextFromBy;
-import org.openqa.selenium.Keys;
 
 import static co.com.aprender.auto.ui.PracticeFormUI.*;
 
